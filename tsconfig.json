@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "target": "ES2022",
+    "outDir": "lib",
+    "noImplicitUseStrict": true,
+    "noImplicitAny": false,
+  },
+  "include": ["src"]
+}
